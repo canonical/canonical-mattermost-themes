@@ -16,11 +16,11 @@
   "centerChannelBg": "#333333",
   "centerChannelColor": "#ffffff",
   "newMessageSeparator": "#335280",
-  "linkColor": "#8FC7FF",
+  "linkColor": "#66d6ff",
   "buttonBg": "#0e8420",
   "buttonColor": "#ffffff",
   "errorTextColor": "#c7162b",
-  "mentionHighlightBg": "#f99b11",
-  "mentionHighlightLink": "#007AA6",
+  "mentionHighlightBg": "#ffd699",
+  "mentionHighlightLink": "#004b66",
   "codeTheme": "monokai"
 }

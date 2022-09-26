@@ -16,11 +16,11 @@
   "centerChannelBg": "#ffffff",
   "centerChannelColor": "#111111",
   "newMessageSeparator": "#007aa6",
-  "linkColor": "#007aa6",
+  "linkColor": "#007099",
   "buttonBg": "#0e8420",
   "buttonColor": "#ffffff",
   "errorTextColor": "#c7162b",
-  "mentionHighlightBg": "#f99b11",
-  "mentionHighlightLink": "#007aa6",
+  "mentionHighlightBg": "#ffeacb",
+  "mentionHighlightLink": "#004b66",
   "codeTheme": "github"
 }
